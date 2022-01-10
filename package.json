@@ -4,7 +4,7 @@
   "description": "foods json server",
   "main": "data.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start" : "json-server data.json"
   },
   "repository": {
     "type": "git",
