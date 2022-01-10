@@ -1,0 +1,29 @@
+{
+  "name": "foods_jsonn_server",
+  "version": "1.0.0",
+  "description": "foods json server",
+  "main": "data.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-hussien/foods_jsonn_server.git"
+  },
+  "keywords": [
+    "json",
+    "server",
+    "api",
+    "endpoint"
+  ],
+  "author": "Ahmed Hussein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-hussien/foods_jsonn_server/issues"
+  },
+  "homepage": "https://github.com/a-hussien/foods_jsonn_server#readme",
+  "dependencies": {
+    "install": "^0.13.0",
+    "json-server": "^0.17.0"
+  }
+}
